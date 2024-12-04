@@ -36,6 +36,10 @@
  ![image](https://user-images.githubusercontent.com/113594316/198233336-dd9f5c19-481b-486a-928a-99c32a732f89.png)
 
  ## OUTPUT
+ ![exp 2 1](https://github.com/user-attachments/assets/7adc3b40-02e0-47f6-88ad-7025737729de)
+ ![exp 22](https://github.com/user-attachments/assets/fe55a191-cb8d-4623-9cc3-3efac36cf79d)
+
+
  
  
  ## RESULT
