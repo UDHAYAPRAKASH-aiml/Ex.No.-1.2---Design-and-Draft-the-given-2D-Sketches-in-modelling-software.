@@ -37,9 +37,6 @@
 
  ## OUTPUT
  ![exp 2 1](https://github.com/user-attachments/assets/7adc3b40-02e0-47f6-88ad-7025737729de)
- ![exp 22](https://github.com/user-attachments/assets/fe55a191-cb8d-4623-9cc3-3efac36cf79d)
-
-
  
  
  ## RESULT
